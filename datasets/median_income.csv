@@ -1,0 +1,1122 @@
+timeframe,location_type_name,location_name,data,format_name,breakdown_parent_name,breakdown_name
+2005,Community District,Sheepshead Bay,64653,Dollar,Household Type,All Households
+2005,Community District,Bensonhurst,63025,Dollar,Household Type,All Households
+2005,Community District,Coney Island,39763,Dollar,Household Type,All Households
+2005,Community District,Astoria,59207,Dollar,Household Type,All Households
+2005,Community District,Jackson Heights,64656,Dollar,Household Type,All Households
+2005,Community District,Flushing,77220,Dollar,Household Type,All Households
+2005,Community District,Bayside,103993,Dollar,Household Type,All Households
+2005,Community District,Queens Village,106120,Dollar,Household Type,All Households
+2005,Community District,Fresh Meadows/Briarwood,75364,Dollar,Household Type,All Households
+2005,Community District,Elmhurst/Corona,64545,Dollar,Household Type,All Households
+2005,Community District,Rego Park/Forest Hills,82182,Dollar,Household Type,All Households
+2005,Community District,Sunnyside/Woodside,64658,Dollar,Household Type,All Households
+2006,Community District,Mott Haven,27018,Dollar,Household Type,All Households
+2006,Community District,Hunts Point,27018,Dollar,Household Type,All Households
+2006,Community District,Washington Heights,49196,Dollar,Household Type,All Households
+2006,Community District,Manhattanville,43555,Dollar,Household Type,All Households
+2006,Community District,Central Harlem,40897,Dollar,Household Type,All Households
+2006,Community District,East Harlem,40905,Dollar,Household Type,All Households
+2006,Community District,Upper East Side,145741,Dollar,Household Type,All Households
+2006,Community District,Upper West Side,137247,Dollar,Household Type,All Households
+2006,Community District,Chelsea/Clinton,110103,Dollar,Household Type,All Households
+2006,Community District,Midtown Business District,110103,Dollar,Household Type,All Households
+2006,Community District,Murray Hill/Stuyvesant,135855,Dollar,Household Type,All Households
+2006,Community District,Lower East Side,55877,Dollar,Household Type,All Households
+2006,Community District,Battery Park/Tribeca,143664,Dollar,Household Type,All Households
+2006,Community District,Greenwich Village,143664,Dollar,Household Type,All Households
+2006,Community District,Tottenville,124072,Dollar,Household Type,All Households
+2006,Community District,South Beach,104548,Dollar,Household Type,All Households
+2006,Community District,St. George,88554,Dollar,Household Type,All Households
+2006,Community District,Williamsburg/Greenpoint,48923,Dollar,Household Type,All Households
+2006,Community District,Bushwick,42177,Dollar,Household Type,All Households
+2006,Community District,Bedford Stuyvesant,41792,Dollar,Household Type,All Households
+2006,Community District,Fort Greene/Brooklyn Hts,83216,Dollar,Household Type,All Households
+2006,Community District,Park Slope,112370,Dollar,Household Type,All Households
+2006,Community District,Crown Heights North,58337,Dollar,Household Type,All Households
+2006,Community District,Brownsville,34791,Dollar,Household Type,All Households
+2006,Community District,East New York,42502,Dollar,Household Type,All Households
+2006,Community District,Canarsie,89520,Dollar,Household Type,All Households
+2006,Community District,East Flatbush,62849,Dollar,Household Type,All Households
+2006,Community District,Crown Heights South,51715,Dollar,Household Type,All Households
+2006,Community District,Sunset Park,70971,Dollar,Household Type,All Households
+2006,Community District,Bay Ridge,83428,Dollar,Household Type,All Households
+2007,Community District,Fresh Meadows/Briarwood,81430,Dollar,Household Type,All Households
+2007,Community District,Elmhurst/Corona,65658,Dollar,Household Type,All Households
+2007,Community District,Rego Park/Forest Hills,93462,Dollar,Household Type,All Households
+2007,Community District,Sunnyside/Woodside,78458,Dollar,Household Type,All Households
+2007,Community District,Ridgewood/Glendale,74729,Dollar,Household Type,All Households
+2007,Community District,Woodhaven,76684,Dollar,Household Type,All Households
+2007,Community District,Jamaica/St. Albans,71364,Dollar,Household Type,All Households
+2007,Community District,Howard Beach,88159,Dollar,Household Type,All Households
+2007,Community District,The Rockaways,61908,Dollar,Household Type,All Households
+2009,Community District,Throgs Neck,65497,Dollar,Household Type,All Households
+2009,Community District,Pelham Parkway,67570,Dollar,Household Type,All Households
+2009,Community District,Morrisania,33067,Dollar,Household Type,All Households
+2009,Community District,East Tremont,33067,Dollar,Household Type,All Households
+2009,Community District,Bedford Park,41526,Dollar,Household Type,All Households
+2009,Community District,University Heights,34199,Dollar,Household Type,All Households
+2009,Community District,Concourse/Highbridge,41561,Dollar,Household Type,All Households
+2009,Community District,Unionport/Soundview,47542,Dollar,Household Type,All Households
+2009,Community District,Mott Haven,27147,Dollar,Household Type,All Households
+2009,Community District,Hunts Point,27147,Dollar,Household Type,All Households
+2009,Community District,Washington Heights,52344,Dollar,Household Type,All Households
+2009,Community District,Manhattanville,54492,Dollar,Household Type,All Households
+2011,Community District,Mott Haven,28529,Dollar,Household Type,All Households
+2011,Community District,Hunts Point,28529,Dollar,Household Type,All Households
+2011,Community District,Washington Heights,50702,Dollar,Household Type,All Households
+2011,Community District,Manhattanville,53273,Dollar,Household Type,All Households
+2011,Community District,Central Harlem,47692,Dollar,Household Type,All Households
+2011,Community District,East Harlem,41689,Dollar,Household Type,All Households
+2011,Community District,Upper East Side,141954,Dollar,Household Type,All Households
+2011,Community District,Upper West Side,124338,Dollar,Household Type,All Households
+2011,Community District,Chelsea/Clinton,112020,Dollar,Household Type,All Households
+2011,Community District,Midtown Business District,112020,Dollar,Household Type,All Households
+2011,Community District,Murray Hill/Stuyvesant,137004,Dollar,Household Type,All Households
+2011,Community District,Lower East Side,52835,Dollar,Household Type,All Households
+2011,Community District,Battery Park/Tribeca,161717,Dollar,Household Type,All Households
+2011,Community District,Greenwich Village,161717,Dollar,Household Type,All Households
+2011,Community District,Tottenville,109716,Dollar,Household Type,All Households
+2011,Community District,South Beach,95868,Dollar,Household Type,All Households
+2011,Community District,St. George,73132,Dollar,Household Type,All Households
+2011,Community District,Williamsburg/Greenpoint,63414,Dollar,Household Type,All Households
+2011,Community District,Bushwick,46063,Dollar,Household Type,All Households
+2011,Community District,Bedford Stuyvesant,43623,Dollar,Household Type,All Households
+2011,Community District,Fort Greene/Brooklyn Hts,83708,Dollar,Household Type,All Households
+2011,Community District,Park Slope,117771,Dollar,Household Type,All Households
+2011,Community District,Crown Heights North,54655,Dollar,Household Type,All Households
+2011,Community District,Brownsville,34762,Dollar,Household Type,All Households
+2011,Community District,East New York,40282,Dollar,Household Type,All Households
+2011,Community District,Canarsie,80431,Dollar,Household Type,All Households
+2011,Community District,East Flatbush,60211,Dollar,Household Type,All Households
+2012,Community District,Fresh Meadows/Briarwood,84832,Dollar,Household Type,All Households
+2012,Community District,Elmhurst/Corona,55130,Dollar,Household Type,All Households
+2012,Community District,Rego Park/Forest Hills,83588,Dollar,Household Type,All Households
+2012,Community District,Sunnyside/Woodside,65953,Dollar,Household Type,All Households
+2012,Community District,Ridgewood/Glendale,67305,Dollar,Household Type,All Households
+2012,Community District,Woodhaven,73627,Dollar,Household Type,All Households
+2012,Community District,Jamaica/St. Albans,67112,Dollar,Household Type,All Households
+2014,Community District,Battery Park/Tribeca,154358,Dollar,Household Type,All Households
+2014,Community District,Greenwich Village,154358,Dollar,Household Type,All Households
+2014,Community District,Tottenville,106233,Dollar,Household Type,All Households
+2014,Community District,South Beach,91774,Dollar,Household Type,All Households
+2014,Community District,St. George,73977,Dollar,Household Type,All Households
+2014,Community District,Williamsburg/Greenpoint,74255,Dollar,Household Type,All Households
+2014,Community District,Bushwick,51993,Dollar,Household Type,All Households
+2014,Community District,Bedford Stuyvesant,44536,Dollar,Household Type,All Households
+2014,Community District,Fort Greene/Brooklyn Hts,108609,Dollar,Household Type,All Households
+2014,Community District,Park Slope,145182,Dollar,Household Type,All Households
+2014,Community District,Crown Heights North,57669,Dollar,Household Type,All Households
+2014,Community District,Brownsville,32440,Dollar,Household Type,All Households
+2014,Community District,East New York,42376,Dollar,Household Type,All Households
+2014,Community District,Canarsie,79741,Dollar,Household Type,All Households
+2014,Community District,East Flatbush,54388,Dollar,Household Type,All Households
+2014,Community District,Crown Heights South,53701,Dollar,Household Type,All Households
+2014,Community District,Sunset Park,61711,Dollar,Household Type,All Households
+2014,Community District,Bay Ridge,72814,Dollar,Household Type,All Households
+2014,Community District,Borough Park,55509,Dollar,Household Type,All Households
+2014,Community District,Flatbush/Midwood,64620,Dollar,Household Type,All Households
+2014,Community District,Sheepshead Bay,67704,Dollar,Household Type,All Households
+2014,Community District,Bensonhurst,61322,Dollar,Household Type,All Households
+2014,Community District,Coney Island,37987,Dollar,Household Type,All Households
+2014,Community District,Astoria,72265,Dollar,Household Type,All Households
+2014,Community District,Jackson Heights,63713,Dollar,Household Type,All Households
+2014,Community District,Flushing,66918,Dollar,Household Type,All Households
+2014,Community District,Bayside,103855,Dollar,Household Type,All Households
+2014,Community District,Queens Village,97261,Dollar,Household Type,All Households
+2014,Community District,Fresh Meadows/Briarwood,71052,Dollar,Household Type,All Households
+2014,Community District,Elmhurst/Corona,58132,Dollar,Household Type,All Households
+2014,Community District,Rego Park/Forest Hills,78714,Dollar,Household Type,All Households
+2014,Community District,Sunnyside/Woodside,73544,Dollar,Household Type,All Households
+2016,Community District,Mott Haven,34659,Dollar,Household Type,All Households
+2016,Community District,Hunts Point,34659,Dollar,Household Type,All Households
+2016,Community District,Washington Heights,66027,Dollar,Household Type,All Households
+2016,Community District,Manhattanville,62224,Dollar,Household Type,All Households
+2016,Community District,Central Harlem,57922,Dollar,Household Type,All Households
+2016,Community District,East Harlem,43683,Dollar,Household Type,All Households
+2016,Community District,Upper East Side,148436,Dollar,Household Type,All Households
+2016,Community District,Upper West Side,141201,Dollar,Household Type,All Households
+2016,Community District,Chelsea/Clinton,128866,Dollar,Household Type,All Households
+2016,Community District,Midtown Business District,128866,Dollar,Household Type,All Households
+2016,Community District,Murray Hill/Stuyvesant,140098,Dollar,Household Type,All Households
+2016,Community District,Lower East Side,52291,Dollar,Household Type,All Households
+2016,Community District,Battery Park/Tribeca,174119,Dollar,Household Type,All Households
+2016,Community District,Greenwich Village,174119,Dollar,Household Type,All Households
+2016,Community District,Tottenville,114249,Dollar,Household Type,All Households
+2016,Community District,South Beach,104252,Dollar,Household Type,All Households
+2016,Community District,St. George,83214,Dollar,Household Type,All Households
+2016,Community District,Williamsburg/Greenpoint,88436,Dollar,Household Type,All Households
+2016,Community District,Bushwick,61457,Dollar,Household Type,All Households
+2016,Community District,Bedford Stuyvesant,65271,Dollar,Household Type,All Households
+2016,Community District,Fort Greene/Brooklyn Hts,110386,Dollar,Household Type,All Households
+2016,Community District,Park Slope,131814,Dollar,Household Type,All Households
+2016,Community District,Crown Heights North,65847,Dollar,Household Type,All Households
+2016,Community District,Brownsville,38333,Dollar,Household Type,All Households
+2016,Community District,East New York,48070,Dollar,Household Type,All Households
+2016,Community District,Canarsie,95671,Dollar,Household Type,All Households
+2016,Community District,East Flatbush,65044,Dollar,Household Type,All Households
+2016,Community District,Crown Heights South,64464,Dollar,Household Type,All Households
+2016,Community District,Sunset Park,67593,Dollar,Household Type,All Households
+2016,Community District,Bay Ridge,84477,Dollar,Household Type,All Households
+2017,Community District,Woodhaven,87020,Dollar,Household Type,All Households
+2017,Community District,Howard Beach,91967,Dollar,Household Type,All Households
+2017,Community District,Bayside,87317,Dollar,Household Type,All Households
+2017,Community District,Jamaica/St. Albans,76757,Dollar,Household Type,All Households
+2017,Community District,Queens Village,106861,Dollar,Household Type,All Households
+2017,Community District,The Rockaways,67225,Dollar,Household Type,All Households
+2017,Community District,St. George,78250,Dollar,Household Type,All Households
+2017,Community District,South Beach,101421,Dollar,Household Type,All Households
+2017,Community District,Tottenville,120476,Dollar,Household Type,All Households
+2018,Community District,Battery Park/Tribeca,180944,Dollar,Household Type,All Households
+2018,Community District,Greenwich Village,180944,Dollar,Household Type,All Households
+2019,Community District,Sunset Park,81546,Dollar,Household Type,All Households
+2019,Community District,Crown Heights North,89425,Dollar,Household Type,All Households
+2019,Community District,Crown Heights South,80140,Dollar,Household Type,All Households
+2019,Community District,Bay Ridge,91996,Dollar,Household Type,All Households
+2019,Community District,Bensonhurst,68651,Dollar,Household Type,All Households
+2019,Community District,Borough Park,66167,Dollar,Household Type,All Households
+2019,Community District,Coney Island,48914,Dollar,Household Type,All Households
+2019,Community District,Flatbush/Midwood,78816,Dollar,Household Type,All Households
+2019,Community District,Sheepshead Bay,90264,Dollar,Household Type,All Households
+2019,Community District,Brownsville,37660,Dollar,Household Type,All Households
+2019,Community District,East Flatbush,73164,Dollar,Household Type,All Households
+2019,Community District,Canarsie,96684,Dollar,Household Type,All Households
+2019,Community District,Astoria,95133,Dollar,Household Type,All Households
+2019,Community District,Sunnyside/Woodside,97216,Dollar,Household Type,All Households
+2019,Community District,Jackson Heights,80741,Dollar,Household Type,All Households
+2019,Community District,Elmhurst/Corona,80671,Dollar,Household Type,All Households
+2019,Community District,Ridgewood/Glendale,87445,Dollar,Household Type,All Households
+2019,Community District,Rego Park/Forest Hills,107124,Dollar,Household Type,All Households
+2019,Community District,Flushing,66001,Dollar,Household Type,All Households
+2019,Community District,Fresh Meadows/Briarwood,86706,Dollar,Household Type,All Households
+2019,Community District,Woodhaven,92488,Dollar,Household Type,All Households
+2019,Community District,Howard Beach,101234,Dollar,Household Type,All Households
+2019,Community District,Bayside,111356,Dollar,Household Type,All Households
+2019,Community District,Jamaica/St. Albans,78990,Dollar,Household Type,All Households
+2019,Community District,Queens Village,113887,Dollar,Household Type,All Households
+2019,Community District,The Rockaways,66122,Dollar,Household Type,All Households
+2019,Community District,St. George,90327,Dollar,Household Type,All Households
+2019,Community District,South Beach,98628,Dollar,Household Type,All Households
+2019,Community District,Tottenville,129790,Dollar,Household Type,All Households
+2022,Community District,East Harlem,39796,Dollar,Household Type,All Households
+2022,Community District,Washington Heights,67014,Dollar,Household Type,All Households
+2022,Community District,Mott Haven,35411,Dollar,Household Type,All Households
+2022,Community District,Hunts Point,35411,Dollar,Household Type,All Households
+2022,Community District,Morrisania,34817,Dollar,Household Type,All Households
+2022,Community District,Concourse/Highbridge,48067,Dollar,Household Type,All Households
+2022,Community District,University Heights,35856,Dollar,Household Type,All Households
+2022,Community District,East Tremont,34817,Dollar,Household Type,All Households
+2022,Community District,Bedford Park,46569,Dollar,Household Type,All Households
+2022,Community District,Riverdale,85332,Dollar,Household Type,All Households
+2022,Community District,Unionport/Soundview,52476,Dollar,Household Type,All Households
+2022,Community District,Throgs Neck,68723,Dollar,Household Type,All Households
+2022,Community District,Pelham Parkway,68994,Dollar,Household Type,All Households
+2022,Community District,Williamsbridge,67668,Dollar,Household Type,All Households
+2022,Community District,Williamsburg/Greenpoint,106410,Dollar,Household Type,All Households
+2022,Community District,Fort Greene/Brooklyn Hts,146806,Dollar,Household Type,All Households
+2023,Community District,Bayside,111688,Dollar,Household Type,All Households
+2023,Community District,Jamaica/St. Albans,78088,Dollar,Household Type,All Households
+2023,Community District,Queens Village,107217,Dollar,Household Type,All Households
+2023,Community District,The Rockaways,54799,Dollar,Household Type,All Households
+2023,Community District,St. George,75596,Dollar,Household Type,All Households
+2023,Community District,South Beach,100129,Dollar,Household Type,All Households
+2023,Community District,Tottenville,116782,Dollar,Household Type,All Households
+2024,Community District,Battery Park/Tribeca,202131,Dollar,Household Type,All Households
+2024,Community District,Greenwich Village,202131,Dollar,Household Type,All Households
+2024,Community District,Lower East Side,52203,Dollar,Household Type,All Households
+2024,Community District,Chelsea/Clinton,120173,Dollar,Household Type,All Households
+2024,Community District,Midtown Business District,160384,Dollar,Household Type,All Households
+2024,Community District,Murray Hill/Stuyvesant,160384,Dollar,Household Type,All Households
+2024,Community District,Upper West Side,147266,Dollar,Household Type,All Households
+2024,Community District,Upper East Side,163263,Dollar,Household Type,All Households
+2024,Community District,Manhattanville,67111,Dollar,Household Type,All Households
+2024,Community District,Central Harlem,62063,Dollar,Household Type,All Households
+2024,Community District,East Harlem,40496,Dollar,Household Type,All Households
+2024,Community District,Washington Heights,66305,Dollar,Household Type,All Households
+2024,Community District,Mott Haven,26469,Dollar,Household Type,All Households
+2024,Community District,Hunts Point,26469,Dollar,Household Type,All Households
+2024,Community District,Morrisania,31397,Dollar,Household Type,All Households
+2024,Community District,Concourse/Highbridge,44923,Dollar,Household Type,All Households
+2024,Community District,University Heights,35285,Dollar,Household Type,All Households
+2024,Community District,East Tremont,31397,Dollar,Household Type,All Households
+2024,Community District,Bedford Park,40475,Dollar,Household Type,All Households
+2024,Community District,Riverdale,77476,Dollar,Household Type,All Households
+2024,Community District,Unionport/Soundview,42356,Dollar,Household Type,All Households
+2024,Community District,Throgs Neck,70162,Dollar,Household Type,All Households
+2024,Community District,Pelham Parkway,62206,Dollar,Household Type,All Households
+2024,Community District,Williamsbridge,66698,Dollar,Household Type,All Households
+2024,Community District,Williamsburg/Greenpoint,106864,Dollar,Household Type,All Households
+2024,Community District,Fort Greene/Brooklyn Hts,139172,Dollar,Household Type,All Households
+2024,Community District,Bedford Stuyvesant,90296,Dollar,Household Type,All Households
+2005,Community District,Riverdale,75954,Dollar,Household Type,All Households
+2005,Community District,Williamsbridge,62431,Dollar,Household Type,All Households
+2005,Community District,Throgs Neck,69101,Dollar,Household Type,All Households
+2005,Community District,Pelham Parkway,63198,Dollar,Household Type,All Households
+2005,Community District,Morrisania,29442,Dollar,Household Type,All Households
+2005,Community District,East Tremont,29442,Dollar,Household Type,All Households
+2005,Community District,Bedford Park,45906,Dollar,Household Type,All Households
+2005,Community District,University Heights,30454,Dollar,Household Type,All Households
+2005,Community District,Concourse/Highbridge,32620,Dollar,Household Type,All Households
+2005,Community District,Unionport/Soundview,53269,Dollar,Household Type,All Households
+2005,Community District,Mott Haven,21836,Dollar,Household Type,All Households
+2005,Community District,Hunts Point,21836,Dollar,Household Type,All Households
+2005,Community District,Washington Heights,49921,Dollar,Household Type,All Households
+2005,Community District,Manhattanville,43939,Dollar,Household Type,All Households
+2005,Community District,Central Harlem,42038,Dollar,Household Type,All Households
+2005,Community District,East Harlem,42319,Dollar,Household Type,All Households
+2005,Community District,Upper East Side,130122,Dollar,Household Type,All Households
+2005,Community District,Upper West Side,132152,Dollar,Household Type,All Households
+2005,Community District,Chelsea/Clinton,110906,Dollar,Household Type,All Households
+2005,Community District,Midtown Business District,110906,Dollar,Household Type,All Households
+2005,Community District,Murray Hill/Stuyvesant,135338,Dollar,Household Type,All Households
+2005,Community District,Lower East Side,50365,Dollar,Household Type,All Households
+2005,Community District,Battery Park/Tribeca,146064,Dollar,Household Type,All Households
+2005,Community District,Greenwich Village,146064,Dollar,Household Type,All Households
+2005,Community District,Tottenville,126218,Dollar,Household Type,All Households
+2005,Community District,South Beach,93491,Dollar,Household Type,All Households
+2005,Community District,St. George,81332,Dollar,Household Type,All Households
+2005,Community District,Williamsburg/Greenpoint,47853,Dollar,Household Type,All Households
+2005,Community District,Bushwick,40093,Dollar,Household Type,All Households
+2005,Community District,Bedford Stuyvesant,48401,Dollar,Household Type,All Households
+2005,Community District,Fort Greene/Brooklyn Hts,80319,Dollar,Household Type,All Households
+2005,Community District,Park Slope,111320,Dollar,Household Type,All Households
+2005,Community District,Crown Heights North,47694,Dollar,Household Type,All Households
+2005,Community District,Brownsville,34873,Dollar,Household Type,All Households
+2005,Community District,East New York,48515,Dollar,Household Type,All Households
+2005,Community District,Canarsie,82482,Dollar,Household Type,All Households
+2005,Community District,East Flatbush,65681,Dollar,Household Type,All Households
+2005,Community District,Crown Heights South,58415,Dollar,Household Type,All Households
+2005,Community District,Sunset Park,59463,Dollar,Household Type,All Households
+2005,Community District,Bay Ridge,76368,Dollar,Household Type,All Households
+2005,Community District,Borough Park,51329,Dollar,Household Type,All Households
+2005,Community District,Flatbush/Midwood,58651,Dollar,Household Type,All Households
+2005,Community District,Ridgewood/Glendale,75488,Dollar,Household Type,All Households
+2005,Community District,Woodhaven,72736,Dollar,Household Type,All Households
+2005,Community District,Jamaica/St. Albans,72919,Dollar,Household Type,All Households
+2005,Community District,Howard Beach,81269,Dollar,Household Type,All Households
+2005,Community District,The Rockaways,70871,Dollar,Household Type,All Households
+2006,Community District,Riverdale,74454,Dollar,Household Type,All Households
+2006,Community District,Williamsbridge,69084,Dollar,Household Type,All Households
+2006,Community District,Throgs Neck,78408,Dollar,Household Type,All Households
+2006,Community District,Pelham Parkway,63763,Dollar,Household Type,All Households
+2006,Community District,Morrisania,27936,Dollar,Household Type,All Households
+2006,Community District,East Tremont,27936,Dollar,Household Type,All Households
+2006,Community District,Bedford Park,42805,Dollar,Household Type,All Households
+2006,Community District,University Heights,30842,Dollar,Household Type,All Households
+2006,Community District,Concourse/Highbridge,36849,Dollar,Household Type,All Households
+2006,Community District,Unionport/Soundview,52441,Dollar,Household Type,All Households
+2006,Community District,Borough Park,60633,Dollar,Household Type,All Households
+2006,Community District,Flatbush/Midwood,60754,Dollar,Household Type,All Households
+2006,Community District,Sheepshead Bay,64221,Dollar,Household Type,All Households
+2006,Community District,Bensonhurst,58625,Dollar,Household Type,All Households
+2006,Community District,Coney Island,42375,Dollar,Household Type,All Households
+2006,Community District,Astoria,63772,Dollar,Household Type,All Households
+2006,Community District,Jackson Heights,72383,Dollar,Household Type,All Households
+2006,Community District,Flushing,76682,Dollar,Household Type,All Households
+2006,Community District,Bayside,102174,Dollar,Household Type,All Households
+2006,Community District,Queens Village,100010,Dollar,Household Type,All Households
+2006,Community District,Fresh Meadows/Briarwood,85807,Dollar,Household Type,All Households
+2006,Community District,Elmhurst/Corona,62727,Dollar,Household Type,All Households
+2006,Community District,Rego Park/Forest Hills,90988,Dollar,Household Type,All Households
+2006,Community District,Sunnyside/Woodside,67696,Dollar,Household Type,All Households
+2006,Community District,Ridgewood/Glendale,76438,Dollar,Household Type,All Households
+2006,Community District,Woodhaven,79838,Dollar,Household Type,All Households
+2006,Community District,Jamaica/St. Albans,74054,Dollar,Household Type,All Households
+2006,Community District,Howard Beach,85733,Dollar,Household Type,All Households
+2006,Community District,The Rockaways,65980,Dollar,Household Type,All Households
+2007,Community District,Riverdale,75414,Dollar,Household Type,All Households
+2007,Community District,Williamsbridge,68446,Dollar,Household Type,All Households
+2007,Community District,Throgs Neck,77893,Dollar,Household Type,All Households
+2007,Community District,Pelham Parkway,65291,Dollar,Household Type,All Households
+2007,Community District,Morrisania,30423,Dollar,Household Type,All Households
+2007,Community District,East Tremont,30423,Dollar,Household Type,All Households
+2007,Community District,Bedford Park,44566,Dollar,Household Type,All Households
+2007,Community District,University Heights,35515,Dollar,Household Type,All Households
+2007,Community District,Concourse/Highbridge,36550,Dollar,Household Type,All Households
+2007,Community District,Unionport/Soundview,49429,Dollar,Household Type,All Households
+2007,Community District,Mott Haven,30671,Dollar,Household Type,All Households
+2007,Community District,Hunts Point,30671,Dollar,Household Type,All Households
+2007,Community District,Washington Heights,52215,Dollar,Household Type,All Households
+2007,Community District,Manhattanville,61652,Dollar,Household Type,All Households
+2007,Community District,Central Harlem,45993,Dollar,Household Type,All Households
+2007,Community District,East Harlem,45207,Dollar,Household Type,All Households
+2007,Community District,Upper East Side,151466,Dollar,Household Type,All Households
+2007,Community District,Upper West Side,127841,Dollar,Household Type,All Households
+2007,Community District,Chelsea/Clinton,116913,Dollar,Household Type,All Households
+2007,Community District,Midtown Business District,116913,Dollar,Household Type,All Households
+2007,Community District,Murray Hill/Stuyvesant,142739,Dollar,Household Type,All Households
+2007,Community District,Lower East Side,47182,Dollar,Household Type,All Households
+2007,Community District,Battery Park/Tribeca,154588,Dollar,Household Type,All Households
+2007,Community District,Greenwich Village,154588,Dollar,Household Type,All Households
+2007,Community District,Tottenville,115446,Dollar,Household Type,All Households
+2007,Community District,South Beach,100700,Dollar,Household Type,All Households
+2007,Community District,St. George,82464,Dollar,Household Type,All Households
+2007,Community District,Williamsburg/Greenpoint,60138,Dollar,Household Type,All Households
+2007,Community District,Bushwick,46435,Dollar,Household Type,All Households
+2007,Community District,Bedford Stuyvesant,46176,Dollar,Household Type,All Households
+2007,Community District,Fort Greene/Brooklyn Hts,94319,Dollar,Household Type,All Households
+2007,Community District,Park Slope,112356,Dollar,Household Type,All Households
+2007,Community District,Crown Heights North,52309,Dollar,Household Type,All Households
+2007,Community District,Brownsville,37253,Dollar,Household Type,All Households
+2007,Community District,East New York,47671,Dollar,Household Type,All Households
+2007,Community District,Canarsie,89926,Dollar,Household Type,All Households
+2007,Community District,East Flatbush,63446,Dollar,Household Type,All Households
+2007,Community District,Crown Heights South,57275,Dollar,Household Type,All Households
+2007,Community District,Sunset Park,56829,Dollar,Household Type,All Households
+2007,Community District,Bay Ridge,72497,Dollar,Household Type,All Households
+2007,Community District,Borough Park,55996,Dollar,Household Type,All Households
+2007,Community District,Flatbush/Midwood,60698,Dollar,Household Type,All Households
+2007,Community District,Sheepshead Bay,66706,Dollar,Household Type,All Households
+2007,Community District,Bensonhurst,61107,Dollar,Household Type,All Households
+2007,Community District,Coney Island,46052,Dollar,Household Type,All Households
+2007,Community District,Astoria,68409,Dollar,Household Type,All Households
+2007,Community District,Jackson Heights,71628,Dollar,Household Type,All Households
+2007,Community District,Flushing,77070,Dollar,Household Type,All Households
+2007,Community District,Bayside,103233,Dollar,Household Type,All Households
+2007,Community District,Queens Village,110489,Dollar,Household Type,All Households
+2008,Community District,Riverdale,80274,Dollar,Household Type,All Households
+2008,Community District,Williamsbridge,65904,Dollar,Household Type,All Households
+2008,Community District,Throgs Neck,82848,Dollar,Household Type,All Households
+2008,Community District,Pelham Parkway,61777,Dollar,Household Type,All Households
+2008,Community District,Morrisania,29819,Dollar,Household Type,All Households
+2008,Community District,East Tremont,29819,Dollar,Household Type,All Households
+2008,Community District,Bedford Park,44484,Dollar,Household Type,All Households
+2008,Community District,University Heights,38199,Dollar,Household Type,All Households
+2008,Community District,Concourse/Highbridge,35109,Dollar,Household Type,All Households
+2008,Community District,Unionport/Soundview,56892,Dollar,Household Type,All Households
+2008,Community District,Mott Haven,27185,Dollar,Household Type,All Households
+2008,Community District,Hunts Point,27185,Dollar,Household Type,All Households
+2008,Community District,Washington Heights,53692,Dollar,Household Type,All Households
+2008,Community District,Manhattanville,53258,Dollar,Household Type,All Households
+2008,Community District,Central Harlem,46998,Dollar,Household Type,All Households
+2008,Community District,East Harlem,42997,Dollar,Household Type,All Households
+2008,Community District,Upper East Side,156180,Dollar,Household Type,All Households
+2008,Community District,Upper West Side,146006,Dollar,Household Type,All Households
+2008,Community District,Chelsea/Clinton,112450,Dollar,Household Type,All Households
+2008,Community District,Midtown Business District,112450,Dollar,Household Type,All Households
+2008,Community District,Murray Hill/Stuyvesant,152848,Dollar,Household Type,All Households
+2008,Community District,Lower East Side,51791,Dollar,Household Type,All Households
+2008,Community District,Battery Park/Tribeca,149841,Dollar,Household Type,All Households
+2008,Community District,Greenwich Village,149841,Dollar,Household Type,All Households
+2008,Community District,Tottenville,128686,Dollar,Household Type,All Households
+2008,Community District,South Beach,106931,Dollar,Household Type,All Households
+2008,Community District,St. George,78829,Dollar,Household Type,All Households
+2008,Community District,Williamsburg/Greenpoint,58467,Dollar,Household Type,All Households
+2008,Community District,Bushwick,51091,Dollar,Household Type,All Households
+2008,Community District,Bedford Stuyvesant,54712,Dollar,Household Type,All Households
+2008,Community District,Fort Greene/Brooklyn Hts,88138,Dollar,Household Type,All Households
+2008,Community District,Park Slope,115273,Dollar,Household Type,All Households
+2008,Community District,Crown Heights North,55363,Dollar,Household Type,All Households
+2008,Community District,Brownsville,38760,Dollar,Household Type,All Households
+2008,Community District,East New York,51003,Dollar,Household Type,All Households
+2008,Community District,Canarsie,88483,Dollar,Household Type,All Households
+2008,Community District,East Flatbush,61775,Dollar,Household Type,All Households
+2008,Community District,Crown Heights South,52920,Dollar,Household Type,All Households
+2008,Community District,Sunset Park,62235,Dollar,Household Type,All Households
+2008,Community District,Bay Ridge,77731,Dollar,Household Type,All Households
+2008,Community District,Borough Park,56894,Dollar,Household Type,All Households
+2008,Community District,Flatbush/Midwood,58685,Dollar,Household Type,All Households
+2008,Community District,Sheepshead Bay,65768,Dollar,Household Type,All Households
+2008,Community District,Bensonhurst,54793,Dollar,Household Type,All Households
+2008,Community District,Coney Island,46057,Dollar,Household Type,All Households
+2008,Community District,Astoria,73799,Dollar,Household Type,All Households
+2008,Community District,Jackson Heights,68004,Dollar,Household Type,All Households
+2008,Community District,Flushing,79672,Dollar,Household Type,All Households
+2008,Community District,Bayside,104888,Dollar,Household Type,All Households
+2008,Community District,Queens Village,106164,Dollar,Household Type,All Households
+2008,Community District,Fresh Meadows/Briarwood,85764,Dollar,Household Type,All Households
+2008,Community District,Elmhurst/Corona,59334,Dollar,Household Type,All Households
+2008,Community District,Rego Park/Forest Hills,94256,Dollar,Household Type,All Households
+2008,Community District,Sunnyside/Woodside,76993,Dollar,Household Type,All Households
+2008,Community District,Ridgewood/Glendale,76291,Dollar,Household Type,All Households
+2008,Community District,Woodhaven,73974,Dollar,Household Type,All Households
+2008,Community District,Jamaica/St. Albans,74121,Dollar,Household Type,All Households
+2008,Community District,Howard Beach,82015,Dollar,Household Type,All Households
+2008,Community District,The Rockaways,65437,Dollar,Household Type,All Households
+2009,Community District,Riverdale,73465,Dollar,Household Type,All Households
+2009,Community District,Williamsbridge,65148,Dollar,Household Type,All Households
+2009,Community District,Central Harlem,44416,Dollar,Household Type,All Households
+2009,Community District,East Harlem,39476,Dollar,Household Type,All Households
+2009,Community District,Upper East Side,139451,Dollar,Household Type,All Households
+2009,Community District,Upper West Side,149258,Dollar,Household Type,All Households
+2009,Community District,Chelsea/Clinton,115390,Dollar,Household Type,All Households
+2009,Community District,Midtown Business District,115390,Dollar,Household Type,All Households
+2009,Community District,Murray Hill/Stuyvesant,139288,Dollar,Household Type,All Households
+2009,Community District,Lower East Side,58218,Dollar,Household Type,All Households
+2009,Community District,Battery Park/Tribeca,143652,Dollar,Household Type,All Households
+2009,Community District,Greenwich Village,143652,Dollar,Household Type,All Households
+2009,Community District,Tottenville,108604,Dollar,Household Type,All Households
+2009,Community District,South Beach,98794,Dollar,Household Type,All Households
+2009,Community District,St. George,79255,Dollar,Household Type,All Households
+2009,Community District,Williamsburg/Greenpoint,55364,Dollar,Household Type,All Households
+2009,Community District,Bushwick,44848,Dollar,Household Type,All Households
+2009,Community District,Bedford Stuyvesant,42561,Dollar,Household Type,All Households
+2009,Community District,Fort Greene/Brooklyn Hts,93360,Dollar,Household Type,All Households
+2009,Community District,Park Slope,127377,Dollar,Household Type,All Households
+2009,Community District,Crown Heights North,54233,Dollar,Household Type,All Households
+2009,Community District,Brownsville,36470,Dollar,Household Type,All Households
+2009,Community District,East New York,47064,Dollar,Household Type,All Households
+2009,Community District,Canarsie,90082,Dollar,Household Type,All Households
+2009,Community District,East Flatbush,67525,Dollar,Household Type,All Households
+2009,Community District,Crown Heights South,52944,Dollar,Household Type,All Households
+2009,Community District,Sunset Park,55239,Dollar,Household Type,All Households
+2009,Community District,Bay Ridge,74711,Dollar,Household Type,All Households
+2009,Community District,Borough Park,57826,Dollar,Household Type,All Households
+2009,Community District,Flatbush/Midwood,56973,Dollar,Household Type,All Households
+2009,Community District,Sheepshead Bay,69414,Dollar,Household Type,All Households
+2009,Community District,Bensonhurst,54436,Dollar,Household Type,All Households
+2009,Community District,Coney Island,45995,Dollar,Household Type,All Households
+2009,Community District,Astoria,66941,Dollar,Household Type,All Households
+2009,Community District,Jackson Heights,72797,Dollar,Household Type,All Households
+2009,Community District,Flushing,73824,Dollar,Household Type,All Households
+2009,Community District,Bayside,101707,Dollar,Household Type,All Households
+2009,Community District,Queens Village,101565,Dollar,Household Type,All Households
+2009,Community District,Fresh Meadows/Briarwood,75145,Dollar,Household Type,All Households
+2009,Community District,Elmhurst/Corona,61105,Dollar,Household Type,All Households
+2009,Community District,Rego Park/Forest Hills,93691,Dollar,Household Type,All Households
+2009,Community District,Sunnyside/Woodside,77790,Dollar,Household Type,All Households
+2009,Community District,Ridgewood/Glendale,74121,Dollar,Household Type,All Households
+2009,Community District,Woodhaven,73672,Dollar,Household Type,All Households
+2009,Community District,Jamaica/St. Albans,76571,Dollar,Household Type,All Households
+2009,Community District,Howard Beach,87554,Dollar,Household Type,All Households
+2009,Community District,The Rockaways,72882,Dollar,Household Type,All Households
+2010,Community District,Riverdale,69435,Dollar,Household Type,All Households
+2010,Community District,Williamsbridge,61016,Dollar,Household Type,All Households
+2010,Community District,Throgs Neck,65531,Dollar,Household Type,All Households
+2010,Community District,Pelham Parkway,60516,Dollar,Household Type,All Households
+2010,Community District,Morrisania,28550,Dollar,Household Type,All Households
+2010,Community District,East Tremont,28550,Dollar,Household Type,All Households
+2010,Community District,Bedford Park,37762,Dollar,Household Type,All Households
+2010,Community District,University Heights,35593,Dollar,Household Type,All Households
+2010,Community District,Concourse/Highbridge,37090,Dollar,Household Type,All Households
+2010,Community District,Unionport/Soundview,54515,Dollar,Household Type,All Households
+2010,Community District,Mott Haven,28922,Dollar,Household Type,All Households
+2010,Community District,Hunts Point,28922,Dollar,Household Type,All Households
+2010,Community District,Washington Heights,57127,Dollar,Household Type,All Households
+2010,Community District,Manhattanville,51711,Dollar,Household Type,All Households
+2010,Community District,Central Harlem,49029,Dollar,Household Type,All Households
+2010,Community District,East Harlem,42423,Dollar,Household Type,All Households
+2010,Community District,Upper East Side,132478,Dollar,Household Type,All Households
+2010,Community District,Upper West Side,124880,Dollar,Household Type,All Households
+2010,Community District,Chelsea/Clinton,108013,Dollar,Household Type,All Households
+2010,Community District,Midtown Business District,108013,Dollar,Household Type,All Households
+2010,Community District,Murray Hill/Stuyvesant,126433,Dollar,Household Type,All Households
+2010,Community District,Lower East Side,58712,Dollar,Household Type,All Households
+2010,Community District,Battery Park/Tribeca,141694,Dollar,Household Type,All Households
+2010,Community District,Greenwich Village,141694,Dollar,Household Type,All Households
+2010,Community District,Tottenville,113326,Dollar,Household Type,All Households
+2010,Community District,South Beach,95374,Dollar,Household Type,All Households
+2010,Community District,St. George,82337,Dollar,Household Type,All Households
+2010,Community District,Williamsburg/Greenpoint,58107,Dollar,Household Type,All Households
+2010,Community District,Bushwick,51408,Dollar,Household Type,All Households
+2010,Community District,Bedford Stuyvesant,51318,Dollar,Household Type,All Households
+2010,Community District,Fort Greene/Brooklyn Hts,99614,Dollar,Household Type,All Households
+2010,Community District,Park Slope,115084,Dollar,Household Type,All Households
+2010,Community District,Crown Heights North,53519,Dollar,Household Type,All Households
+2010,Community District,Brownsville,36405,Dollar,Household Type,All Households
+2010,Community District,East New York,43798,Dollar,Household Type,All Households
+2010,Community District,Canarsie,81621,Dollar,Household Type,All Households
+2010,Community District,East Flatbush,60122,Dollar,Household Type,All Households
+2010,Community District,Crown Heights South,53828,Dollar,Household Type,All Households
+2010,Community District,Sunset Park,56059,Dollar,Household Type,All Households
+2010,Community District,Bay Ridge,67111,Dollar,Household Type,All Households
+2010,Community District,Borough Park,50146,Dollar,Household Type,All Households
+2010,Community District,Flatbush/Midwood,59761,Dollar,Household Type,All Households
+2010,Community District,Sheepshead Bay,65142,Dollar,Household Type,All Households
+2010,Community District,Bensonhurst,53065,Dollar,Household Type,All Households
+2010,Community District,Coney Island,40400,Dollar,Household Type,All Households
+2010,Community District,Astoria,64555,Dollar,Household Type,All Households
+2010,Community District,Jackson Heights,62280,Dollar,Household Type,All Households
+2010,Community District,Flushing,72292,Dollar,Household Type,All Households
+2010,Community District,Bayside,97813,Dollar,Household Type,All Households
+2010,Community District,Queens Village,105553,Dollar,Household Type,All Households
+2010,Community District,Fresh Meadows/Briarwood,76641,Dollar,Household Type,All Households
+2010,Community District,Elmhurst/Corona,57290,Dollar,Household Type,All Households
+2010,Community District,Rego Park/Forest Hills,76506,Dollar,Household Type,All Households
+2010,Community District,Sunnyside/Woodside,72421,Dollar,Household Type,All Households
+2010,Community District,Ridgewood/Glendale,73901,Dollar,Household Type,All Households
+2010,Community District,Woodhaven,79301,Dollar,Household Type,All Households
+2010,Community District,Jamaica/St. Albans,69054,Dollar,Household Type,All Households
+2010,Community District,Howard Beach,78127,Dollar,Household Type,All Households
+2010,Community District,The Rockaways,66497,Dollar,Household Type,All Households
+2011,Community District,Riverdale,74364,Dollar,Household Type,All Households
+2011,Community District,Williamsbridge,58332,Dollar,Household Type,All Households
+2011,Community District,Throgs Neck,72093,Dollar,Household Type,All Households
+2011,Community District,Pelham Parkway,54971,Dollar,Household Type,All Households
+2011,Community District,Morrisania,30181,Dollar,Household Type,All Households
+2011,Community District,East Tremont,30181,Dollar,Household Type,All Households
+2011,Community District,Bedford Park,41346,Dollar,Household Type,All Households
+2011,Community District,University Heights,35012,Dollar,Household Type,All Households
+2011,Community District,Concourse/Highbridge,30827,Dollar,Household Type,All Households
+2011,Community District,Unionport/Soundview,48344,Dollar,Household Type,All Households
+2011,Community District,Crown Heights South,50520,Dollar,Household Type,All Households
+2011,Community District,Sunset Park,57398,Dollar,Household Type,All Households
+2011,Community District,Bay Ridge,76282,Dollar,Household Type,All Households
+2011,Community District,Borough Park,46376,Dollar,Household Type,All Households
+2011,Community District,Flatbush/Midwood,54600,Dollar,Household Type,All Households
+2011,Community District,Sheepshead Bay,64233,Dollar,Household Type,All Households
+2011,Community District,Bensonhurst,59989,Dollar,Household Type,All Households
+2011,Community District,Coney Island,37919,Dollar,Household Type,All Households
+2011,Community District,Astoria,63027,Dollar,Household Type,All Households
+2011,Community District,Jackson Heights,62896,Dollar,Household Type,All Households
+2011,Community District,Flushing,66958,Dollar,Household Type,All Households
+2011,Community District,Bayside,103922,Dollar,Household Type,All Households
+2011,Community District,Queens Village,101676,Dollar,Household Type,All Households
+2011,Community District,Fresh Meadows/Briarwood,71829,Dollar,Household Type,All Households
+2011,Community District,Elmhurst/Corona,61577,Dollar,Household Type,All Households
+2011,Community District,Rego Park/Forest Hills,88912,Dollar,Household Type,All Households
+2011,Community District,Sunnyside/Woodside,67599,Dollar,Household Type,All Households
+2011,Community District,Ridgewood/Glendale,70717,Dollar,Household Type,All Households
+2011,Community District,Woodhaven,74008,Dollar,Household Type,All Households
+2011,Community District,Jamaica/St. Albans,67486,Dollar,Household Type,All Households
+2011,Community District,Howard Beach,78974,Dollar,Household Type,All Households
+2011,Community District,The Rockaways,57022,Dollar,Household Type,All Households
+2012,Community District,Riverdale,72717,Dollar,Household Type,All Households
+2012,Community District,Williamsbridge,54754,Dollar,Household Type,All Households
+2012,Community District,Throgs Neck,67921,Dollar,Household Type,All Households
+2012,Community District,Pelham Parkway,56423,Dollar,Household Type,All Households
+2012,Community District,Morrisania,27239,Dollar,Household Type,All Households
+2012,Community District,East Tremont,27239,Dollar,Household Type,All Households
+2012,Community District,Bedford Park,40390,Dollar,Household Type,All Households
+2012,Community District,University Heights,28575,Dollar,Household Type,All Households
+2012,Community District,Concourse/Highbridge,35665,Dollar,Household Type,All Households
+2012,Community District,Unionport/Soundview,44697,Dollar,Household Type,All Households
+2012,Community District,Mott Haven,25301,Dollar,Household Type,All Households
+2012,Community District,Hunts Point,25301,Dollar,Household Type,All Households
+2012,Community District,Washington Heights,47981,Dollar,Household Type,All Households
+2012,Community District,Manhattanville,53469,Dollar,Household Type,All Households
+2012,Community District,Central Harlem,48746,Dollar,Household Type,All Households
+2012,Community District,East Harlem,41038,Dollar,Household Type,All Households
+2012,Community District,Upper East Side,131421,Dollar,Household Type,All Households
+2012,Community District,Upper West Side,121488,Dollar,Household Type,All Households
+2012,Community District,Chelsea/Clinton,114155,Dollar,Household Type,All Households
+2012,Community District,Midtown Business District,114155,Dollar,Household Type,All Households
+2012,Community District,Murray Hill/Stuyvesant,122298,Dollar,Household Type,All Households
+2012,Community District,Lower East Side,54018,Dollar,Household Type,All Households
+2012,Community District,Battery Park/Tribeca,136117,Dollar,Household Type,All Households
+2012,Community District,Greenwich Village,136117,Dollar,Household Type,All Households
+2012,Community District,Tottenville,108579,Dollar,Household Type,All Households
+2012,Community District,South Beach,94336,Dollar,Household Type,All Households
+2012,Community District,St. George,74596,Dollar,Household Type,All Households
+2012,Community District,Williamsburg/Greenpoint,66551,Dollar,Household Type,All Households
+2012,Community District,Bushwick,46346,Dollar,Household Type,All Households
+2012,Community District,Bedford Stuyvesant,50414,Dollar,Household Type,All Households
+2012,Community District,Fort Greene/Brooklyn Hts,100216,Dollar,Household Type,All Households
+2012,Community District,Park Slope,115305,Dollar,Household Type,All Households
+2012,Community District,Crown Heights North,55175,Dollar,Household Type,All Households
+2012,Community District,Brownsville,37526,Dollar,Household Type,All Households
+2012,Community District,East New York,44567,Dollar,Household Type,All Households
+2012,Community District,Canarsie,81389,Dollar,Household Type,All Households
+2012,Community District,East Flatbush,64331,Dollar,Household Type,All Households
+2012,Community District,Crown Heights South,51074,Dollar,Household Type,All Households
+2012,Community District,Sunset Park,54804,Dollar,Household Type,All Households
+2012,Community District,Bay Ridge,69338,Dollar,Household Type,All Households
+2012,Community District,Borough Park,50034,Dollar,Household Type,All Households
+2012,Community District,Flatbush/Midwood,54340,Dollar,Household Type,All Households
+2012,Community District,Sheepshead Bay,62640,Dollar,Household Type,All Households
+2012,Community District,Bensonhurst,66182,Dollar,Household Type,All Households
+2012,Community District,Coney Island,39635,Dollar,Household Type,All Households
+2012,Community District,Astoria,68613,Dollar,Household Type,All Households
+2012,Community District,Jackson Heights,57050,Dollar,Household Type,All Households
+2012,Community District,Flushing,69228,Dollar,Household Type,All Households
+2012,Community District,Bayside,95402,Dollar,Household Type,All Households
+2012,Community District,Queens Village,96588,Dollar,Household Type,All Households
+2012,Community District,Howard Beach,79218,Dollar,Household Type,All Households
+2012,Community District,The Rockaways,64748,Dollar,Household Type,All Households
+2013,Community District,Riverdale,78875,Dollar,Household Type,All Households
+2013,Community District,Williamsbridge,59381,Dollar,Household Type,All Households
+2013,Community District,Throgs Neck,72948,Dollar,Household Type,All Households
+2013,Community District,Pelham Parkway,56052,Dollar,Household Type,All Households
+2013,Community District,Morrisania,31568,Dollar,Household Type,All Households
+2013,Community District,East Tremont,31568,Dollar,Household Type,All Households
+2013,Community District,Bedford Park,37827,Dollar,Household Type,All Households
+2013,Community District,University Heights,31570,Dollar,Household Type,All Households
+2013,Community District,Concourse/Highbridge,34337,Dollar,Household Type,All Households
+2013,Community District,Unionport/Soundview,42113,Dollar,Household Type,All Households
+2013,Community District,Mott Haven,30037,Dollar,Household Type,All Households
+2013,Community District,Hunts Point,30037,Dollar,Household Type,All Households
+2013,Community District,Washington Heights,48748,Dollar,Household Type,All Households
+2013,Community District,Manhattanville,59338,Dollar,Household Type,All Households
+2013,Community District,Central Harlem,48039,Dollar,Household Type,All Households
+2013,Community District,East Harlem,35058,Dollar,Household Type,All Households
+2013,Community District,Upper East Side,140134,Dollar,Household Type,All Households
+2013,Community District,Upper West Side,129181,Dollar,Household Type,All Households
+2013,Community District,Chelsea/Clinton,130953,Dollar,Household Type,All Households
+2013,Community District,Midtown Business District,130953,Dollar,Household Type,All Households
+2013,Community District,Murray Hill/Stuyvesant,140637,Dollar,Household Type,All Households
+2013,Community District,Lower East Side,52224,Dollar,Household Type,All Households
+2013,Community District,Battery Park/Tribeca,163063,Dollar,Household Type,All Households
+2013,Community District,Greenwich Village,163063,Dollar,Household Type,All Households
+2013,Community District,Tottenville,110823,Dollar,Household Type,All Households
+2013,Community District,South Beach,89346,Dollar,Household Type,All Households
+2013,Community District,St. George,79014,Dollar,Household Type,All Households
+2013,Community District,Williamsburg/Greenpoint,68211,Dollar,Household Type,All Households
+2013,Community District,Bushwick,56415,Dollar,Household Type,All Households
+2013,Community District,Bedford Stuyvesant,48401,Dollar,Household Type,All Households
+2013,Community District,Fort Greene/Brooklyn Hts,98949,Dollar,Household Type,All Households
+2013,Community District,Park Slope,132455,Dollar,Household Type,All Households
+2013,Community District,Crown Heights North,50794,Dollar,Household Type,All Households
+2013,Community District,Brownsville,36348,Dollar,Household Type,All Households
+2013,Community District,East New York,48073,Dollar,Household Type,All Households
+2013,Community District,Canarsie,86252,Dollar,Household Type,All Households
+2013,Community District,East Flatbush,55520,Dollar,Household Type,All Households
+2013,Community District,Crown Heights South,60241,Dollar,Household Type,All Households
+2013,Community District,Sunset Park,58655,Dollar,Household Type,All Households
+2013,Community District,Bay Ridge,76282,Dollar,Household Type,All Households
+2013,Community District,Borough Park,52794,Dollar,Household Type,All Households
+2013,Community District,Flatbush/Midwood,55059,Dollar,Household Type,All Households
+2013,Community District,Sheepshead Bay,66448,Dollar,Household Type,All Households
+2013,Community District,Bensonhurst,61514,Dollar,Household Type,All Households
+2013,Community District,Coney Island,40144,Dollar,Household Type,All Households
+2013,Community District,Astoria,66313,Dollar,Household Type,All Households
+2013,Community District,Jackson Heights,63998,Dollar,Household Type,All Households
+2013,Community District,Flushing,65701,Dollar,Household Type,All Households
+2013,Community District,Bayside,93897,Dollar,Household Type,All Households
+2013,Community District,Queens Village,100048,Dollar,Household Type,All Households
+2013,Community District,Fresh Meadows/Briarwood,74863,Dollar,Household Type,All Households
+2013,Community District,Elmhurst/Corona,60495,Dollar,Household Type,All Households
+2013,Community District,Rego Park/Forest Hills,80228,Dollar,Household Type,All Households
+2013,Community District,Sunnyside/Woodside,80465,Dollar,Household Type,All Households
+2013,Community District,Ridgewood/Glendale,76208,Dollar,Household Type,All Households
+2013,Community District,Woodhaven,81371,Dollar,Household Type,All Households
+2013,Community District,Jamaica/St. Albans,66949,Dollar,Household Type,All Households
+2013,Community District,Howard Beach,81552,Dollar,Household Type,All Households
+2013,Community District,The Rockaways,60810,Dollar,Household Type,All Households
+2014,Community District,Riverdale,69639,Dollar,Household Type,All Households
+2014,Community District,Williamsbridge,57672,Dollar,Household Type,All Households
+2014,Community District,Throgs Neck,70587,Dollar,Household Type,All Households
+2014,Community District,Pelham Parkway,61530,Dollar,Household Type,All Households
+2014,Community District,Morrisania,28307,Dollar,Household Type,All Households
+2014,Community District,East Tremont,28307,Dollar,Household Type,All Households
+2014,Community District,Bedford Park,45586,Dollar,Household Type,All Households
+2014,Community District,University Heights,26806,Dollar,Household Type,All Households
+2014,Community District,Concourse/Highbridge,34936,Dollar,Household Type,All Households
+2014,Community District,Unionport/Soundview,46309,Dollar,Household Type,All Households
+2014,Community District,Mott Haven,27119,Dollar,Household Type,All Households
+2014,Community District,Hunts Point,27119,Dollar,Household Type,All Households
+2014,Community District,Washington Heights,57994,Dollar,Household Type,All Households
+2014,Community District,Manhattanville,54242,Dollar,Household Type,All Households
+2014,Community District,Central Harlem,52096,Dollar,Household Type,All Households
+2014,Community District,East Harlem,40249,Dollar,Household Type,All Households
+2014,Community District,Upper East Side,147998,Dollar,Household Type,All Households
+2014,Community District,Upper West Side,136366,Dollar,Household Type,All Households
+2014,Community District,Chelsea/Clinton,126580,Dollar,Household Type,All Households
+2014,Community District,Midtown Business District,126580,Dollar,Household Type,All Households
+2014,Community District,Murray Hill/Stuyvesant,135652,Dollar,Household Type,All Households
+2014,Community District,Lower East Side,53126,Dollar,Household Type,All Households
+2014,Community District,Ridgewood/Glendale,81757,Dollar,Household Type,All Households
+2014,Community District,Woodhaven,78694,Dollar,Household Type,All Households
+2014,Community District,Jamaica/St. Albans,67472,Dollar,Household Type,All Households
+2014,Community District,Howard Beach,78272,Dollar,Household Type,All Households
+2014,Community District,The Rockaways,56815,Dollar,Household Type,All Households
+2015,Community District,Riverdale,79161,Dollar,Household Type,All Households
+2015,Community District,Williamsbridge,60891,Dollar,Household Type,All Households
+2015,Community District,Throgs Neck,65236,Dollar,Household Type,All Households
+2015,Community District,Pelham Parkway,58431,Dollar,Household Type,All Households
+2015,Community District,Morrisania,30847,Dollar,Household Type,All Households
+2015,Community District,East Tremont,30847,Dollar,Household Type,All Households
+2015,Community District,Bedford Park,40967,Dollar,Household Type,All Households
+2015,Community District,University Heights,31017,Dollar,Household Type,All Households
+2015,Community District,Concourse/Highbridge,33512,Dollar,Household Type,All Households
+2015,Community District,Unionport/Soundview,47185,Dollar,Household Type,All Households
+2015,Community District,Mott Haven,31307,Dollar,Household Type,All Households
+2015,Community District,Hunts Point,31307,Dollar,Household Type,All Households
+2015,Community District,Washington Heights,58115,Dollar,Household Type,All Households
+2015,Community District,Manhattanville,62444,Dollar,Household Type,All Households
+2015,Community District,Central Harlem,59058,Dollar,Household Type,All Households
+2015,Community District,East Harlem,38556,Dollar,Household Type,All Households
+2015,Community District,Upper East Side,131413,Dollar,Household Type,All Households
+2015,Community District,Upper West Side,129599,Dollar,Household Type,All Households
+2015,Community District,Chelsea/Clinton,131186,Dollar,Household Type,All Households
+2015,Community District,Midtown Business District,131186,Dollar,Household Type,All Households
+2015,Community District,Murray Hill/Stuyvesant,137055,Dollar,Household Type,All Households
+2015,Community District,Lower East Side,54216,Dollar,Household Type,All Households
+2015,Community District,Battery Park/Tribeca,156680,Dollar,Household Type,All Households
+2015,Community District,Greenwich Village,156680,Dollar,Household Type,All Households
+2015,Community District,Tottenville,104163,Dollar,Household Type,All Households
+2015,Community District,South Beach,94756,Dollar,Household Type,All Households
+2015,Community District,St. George,71681,Dollar,Household Type,All Households
+2015,Community District,Williamsburg/Greenpoint,86076,Dollar,Household Type,All Households
+2015,Community District,Bushwick,55402,Dollar,Household Type,All Households
+2015,Community District,Bedford Stuyvesant,50722,Dollar,Household Type,All Households
+2015,Community District,Fort Greene/Brooklyn Hts,111146,Dollar,Household Type,All Households
+2015,Community District,Park Slope,142979,Dollar,Household Type,All Households
+2015,Community District,Crown Heights North,58640,Dollar,Household Type,All Households
+2015,Community District,Brownsville,34710,Dollar,Household Type,All Households
+2015,Community District,East New York,45020,Dollar,Household Type,All Households
+2015,Community District,Canarsie,88625,Dollar,Household Type,All Households
+2015,Community District,East Flatbush,64548,Dollar,Household Type,All Households
+2015,Community District,Crown Heights South,57979,Dollar,Household Type,All Households
+2015,Community District,Sunset Park,58005,Dollar,Household Type,All Households
+2015,Community District,Bay Ridge,82575,Dollar,Household Type,All Households
+2015,Community District,Borough Park,55375,Dollar,Household Type,All Households
+2015,Community District,Flatbush/Midwood,63693,Dollar,Household Type,All Households
+2015,Community District,Sheepshead Bay,69789,Dollar,Household Type,All Households
+2015,Community District,Bensonhurst,64171,Dollar,Household Type,All Households
+2015,Community District,Coney Island,51668,Dollar,Household Type,All Households
+2015,Community District,Astoria,73982,Dollar,Household Type,All Households
+2015,Community District,Jackson Heights,69440,Dollar,Household Type,All Households
+2015,Community District,Flushing,65034,Dollar,Household Type,All Households
+2015,Community District,Bayside,101615,Dollar,Household Type,All Households
+2015,Community District,Queens Village,103955,Dollar,Household Type,All Households
+2015,Community District,Fresh Meadows/Briarwood,79992,Dollar,Household Type,All Households
+2015,Community District,Elmhurst/Corona,56097,Dollar,Household Type,All Households
+2015,Community District,Rego Park/Forest Hills,90982,Dollar,Household Type,All Households
+2015,Community District,Sunnyside/Woodside,77227,Dollar,Household Type,All Households
+2015,Community District,Ridgewood/Glendale,79902,Dollar,Household Type,All Households
+2015,Community District,Woodhaven,77563,Dollar,Household Type,All Households
+2015,Community District,Jamaica/St. Albans,74799,Dollar,Household Type,All Households
+2015,Community District,Howard Beach,86336,Dollar,Household Type,All Households
+2015,Community District,The Rockaways,67127,Dollar,Household Type,All Households
+2016,Community District,Riverdale,73979,Dollar,Household Type,All Households
+2016,Community District,Williamsbridge,65202,Dollar,Household Type,All Households
+2016,Community District,Throgs Neck,75378,Dollar,Household Type,All Households
+2016,Community District,Pelham Parkway,64476,Dollar,Household Type,All Households
+2016,Community District,Morrisania,32755,Dollar,Household Type,All Households
+2016,Community District,East Tremont,32755,Dollar,Household Type,All Households
+2016,Community District,Bedford Park,43223,Dollar,Household Type,All Households
+2016,Community District,University Heights,33776,Dollar,Household Type,All Households
+2016,Community District,Concourse/Highbridge,39972,Dollar,Household Type,All Households
+2016,Community District,Unionport/Soundview,47531,Dollar,Household Type,All Households
+2016,Community District,Borough Park,58115,Dollar,Household Type,All Households
+2016,Community District,Flatbush/Midwood,64273,Dollar,Household Type,All Households
+2016,Community District,Sheepshead Bay,76330,Dollar,Household Type,All Households
+2016,Community District,Bensonhurst,64824,Dollar,Household Type,All Households
+2016,Community District,Coney Island,49761,Dollar,Household Type,All Households
+2016,Community District,Astoria,76655,Dollar,Household Type,All Households
+2016,Community District,Jackson Heights,67358,Dollar,Household Type,All Households
+2016,Community District,Flushing,64776,Dollar,Household Type,All Households
+2016,Community District,Bayside,100397,Dollar,Household Type,All Households
+2016,Community District,Queens Village,102216,Dollar,Household Type,All Households
+2016,Community District,Fresh Meadows/Briarwood,84568,Dollar,Household Type,All Households
+2016,Community District,Elmhurst/Corona,53582,Dollar,Household Type,All Households
+2016,Community District,Rego Park/Forest Hills,89548,Dollar,Household Type,All Households
+2016,Community District,Sunnyside/Woodside,79027,Dollar,Household Type,All Households
+2016,Community District,Ridgewood/Glendale,94804,Dollar,Household Type,All Households
+2016,Community District,Woodhaven,84428,Dollar,Household Type,All Households
+2016,Community District,Jamaica/St. Albans,76256,Dollar,Household Type,All Households
+2016,Community District,Howard Beach,91974,Dollar,Household Type,All Households
+2016,Community District,The Rockaways,56296,Dollar,Household Type,All Households
+2017,Community District,Battery Park/Tribeca,180320,Dollar,Household Type,All Households
+2017,Community District,Greenwich Village,180320,Dollar,Household Type,All Households
+2017,Community District,Lower East Side,49268,Dollar,Household Type,All Households
+2017,Community District,Chelsea/Clinton,126929,Dollar,Household Type,All Households
+2017,Community District,Midtown Business District,126929,Dollar,Household Type,All Households
+2017,Community District,Murray Hill/Stuyvesant,139876,Dollar,Household Type,All Households
+2017,Community District,Upper West Side,154203,Dollar,Household Type,All Households
+2017,Community District,Upper East Side,163480,Dollar,Household Type,All Households
+2017,Community District,Manhattanville,62291,Dollar,Household Type,All Households
+2017,Community District,Central Harlem,61060,Dollar,Household Type,All Households
+2017,Community District,East Harlem,45765,Dollar,Household Type,All Households
+2017,Community District,Washington Heights,70175,Dollar,Household Type,All Households
+2017,Community District,Mott Haven,26095,Dollar,Household Type,All Households
+2017,Community District,Hunts Point,26095,Dollar,Household Type,All Households
+2017,Community District,Morrisania,32326,Dollar,Household Type,All Households
+2017,Community District,Concourse/Highbridge,38459,Dollar,Household Type,All Households
+2017,Community District,University Heights,37546,Dollar,Household Type,All Households
+2017,Community District,East Tremont,32326,Dollar,Household Type,All Households
+2017,Community District,Bedford Park,44004,Dollar,Household Type,All Households
+2017,Community District,Riverdale,67193,Dollar,Household Type,All Households
+2017,Community District,Unionport/Soundview,49792,Dollar,Household Type,All Households
+2017,Community District,Throgs Neck,74083,Dollar,Household Type,All Households
+2017,Community District,Pelham Parkway,59765,Dollar,Household Type,All Households
+2017,Community District,Williamsbridge,73151,Dollar,Household Type,All Households
+2017,Community District,Williamsburg/Greenpoint,95349,Dollar,Household Type,All Households
+2017,Community District,Fort Greene/Brooklyn Hts,115206,Dollar,Household Type,All Households
+2017,Community District,Bedford Stuyvesant,64605,Dollar,Household Type,All Households
+2017,Community District,Bushwick,63048,Dollar,Household Type,All Households
+2017,Community District,East New York,45785,Dollar,Household Type,All Households
+2017,Community District,Park Slope,167782,Dollar,Household Type,All Households
+2017,Community District,Sunset Park,70679,Dollar,Household Type,All Households
+2017,Community District,Crown Heights North,74811,Dollar,Household Type,All Households
+2017,Community District,Crown Heights South,63566,Dollar,Household Type,All Households
+2017,Community District,Bay Ridge,85480,Dollar,Household Type,All Households
+2017,Community District,Bensonhurst,66579,Dollar,Household Type,All Households
+2017,Community District,Borough Park,56462,Dollar,Household Type,All Households
+2017,Community District,Coney Island,44954,Dollar,Household Type,All Households
+2017,Community District,Flatbush/Midwood,70445,Dollar,Household Type,All Households
+2017,Community District,Sheepshead Bay,76264,Dollar,Household Type,All Households
+2017,Community District,Brownsville,25209,Dollar,Household Type,All Households
+2017,Community District,East Flatbush,61421,Dollar,Household Type,All Households
+2017,Community District,Canarsie,95397,Dollar,Household Type,All Households
+2017,Community District,Astoria,82621,Dollar,Household Type,All Households
+2017,Community District,Sunnyside/Woodside,83837,Dollar,Household Type,All Households
+2017,Community District,Jackson Heights,70448,Dollar,Household Type,All Households
+2017,Community District,Elmhurst/Corona,64711,Dollar,Household Type,All Households
+2017,Community District,Ridgewood/Glendale,88660,Dollar,Household Type,All Households
+2017,Community District,Rego Park/Forest Hills,93904,Dollar,Household Type,All Households
+2017,Community District,Flushing,63830,Dollar,Household Type,All Households
+2017,Community District,Fresh Meadows/Briarwood,79663,Dollar,Household Type,All Households
+2018,Community District,Lower East Side,59084,Dollar,Household Type,All Households
+2018,Community District,Chelsea/Clinton,123453,Dollar,Household Type,All Households
+2018,Community District,Midtown Business District,123453,Dollar,Household Type,All Households
+2018,Community District,Murray Hill/Stuyvesant,164756,Dollar,Household Type,All Households
+2018,Community District,Upper West Side,148786,Dollar,Household Type,All Households
+2018,Community District,Upper East Side,148635,Dollar,Household Type,All Households
+2018,Community District,Manhattanville,73306,Dollar,Household Type,All Households
+2018,Community District,Central Harlem,58268,Dollar,Household Type,All Households
+2018,Community District,East Harlem,39761,Dollar,Household Type,All Households
+2018,Community District,Washington Heights,65946,Dollar,Household Type,All Households
+2018,Community District,Mott Haven,31424,Dollar,Household Type,All Households
+2018,Community District,Hunts Point,31424,Dollar,Household Type,All Households
+2018,Community District,Morrisania,32329,Dollar,Household Type,All Households
+2018,Community District,Concourse/Highbridge,40770,Dollar,Household Type,All Households
+2018,Community District,University Heights,37208,Dollar,Household Type,All Households
+2018,Community District,East Tremont,32329,Dollar,Household Type,All Households
+2018,Community District,Bedford Park,41952,Dollar,Household Type,All Households
+2018,Community District,Riverdale,66711,Dollar,Household Type,All Households
+2018,Community District,Unionport/Soundview,53097,Dollar,Household Type,All Households
+2018,Community District,Throgs Neck,67120,Dollar,Household Type,All Households
+2018,Community District,Pelham Parkway,66469,Dollar,Household Type,All Households
+2018,Community District,Williamsbridge,62610,Dollar,Household Type,All Households
+2018,Community District,Williamsburg/Greenpoint,98511,Dollar,Household Type,All Households
+2018,Community District,Fort Greene/Brooklyn Hts,132443,Dollar,Household Type,All Households
+2018,Community District,Bedford Stuyvesant,67169,Dollar,Household Type,All Households
+2018,Community District,Bushwick,65172,Dollar,Household Type,All Households
+2018,Community District,East New York,50529,Dollar,Household Type,All Households
+2018,Community District,Park Slope,149793,Dollar,Household Type,All Households
+2018,Community District,Sunset Park,76283,Dollar,Household Type,All Households
+2018,Community District,Crown Heights North,80012,Dollar,Household Type,All Households
+2018,Community District,Crown Heights South,76143,Dollar,Household Type,All Households
+2018,Community District,Bay Ridge,88428,Dollar,Household Type,All Households
+2018,Community District,Bensonhurst,66512,Dollar,Household Type,All Households
+2018,Community District,Borough Park,61740,Dollar,Household Type,All Households
+2018,Community District,Coney Island,48572,Dollar,Household Type,All Households
+2018,Community District,Flatbush/Midwood,75893,Dollar,Household Type,All Households
+2018,Community District,Sheepshead Bay,75362,Dollar,Household Type,All Households
+2018,Community District,Brownsville,39630,Dollar,Household Type,All Households
+2018,Community District,East Flatbush,70943,Dollar,Household Type,All Households
+2018,Community District,Canarsie,89159,Dollar,Household Type,All Households
+2018,Community District,Astoria,82372,Dollar,Household Type,All Households
+2018,Community District,Sunnyside/Woodside,86790,Dollar,Household Type,All Households
+2018,Community District,Jackson Heights,74774,Dollar,Household Type,All Households
+2018,Community District,Elmhurst/Corona,65179,Dollar,Household Type,All Households
+2018,Community District,Ridgewood/Glendale,93711,Dollar,Household Type,All Households
+2018,Community District,Rego Park/Forest Hills,99506,Dollar,Household Type,All Households
+2018,Community District,Flushing,64933,Dollar,Household Type,All Households
+2018,Community District,Fresh Meadows/Briarwood,85881,Dollar,Household Type,All Households
+2018,Community District,Woodhaven,87687,Dollar,Household Type,All Households
+2018,Community District,Howard Beach,92321,Dollar,Household Type,All Households
+2018,Community District,Bayside,105448,Dollar,Household Type,All Households
+2018,Community District,Jamaica/St. Albans,78448,Dollar,Household Type,All Households
+2018,Community District,Queens Village,111640,Dollar,Household Type,All Households
+2018,Community District,The Rockaways,74074,Dollar,Household Type,All Households
+2018,Community District,St. George,89339,Dollar,Household Type,All Households
+2018,Community District,South Beach,110387,Dollar,Household Type,All Households
+2018,Community District,Tottenville,106116,Dollar,Household Type,All Households
+2019,Community District,Battery Park/Tribeca,194751,Dollar,Household Type,All Households
+2019,Community District,Greenwich Village,194751,Dollar,Household Type,All Households
+2019,Community District,Lower East Side,49624,Dollar,Household Type,All Households
+2019,Community District,Chelsea/Clinton,144476,Dollar,Household Type,All Households
+2019,Community District,Midtown Business District,144476,Dollar,Household Type,All Households
+2019,Community District,Murray Hill/Stuyvesant,185630,Dollar,Household Type,All Households
+2019,Community District,Upper West Side,164285,Dollar,Household Type,All Households
+2019,Community District,Upper East Side,161316,Dollar,Household Type,All Households
+2019,Community District,Manhattanville,82145,Dollar,Household Type,All Households
+2019,Community District,Central Harlem,66000,Dollar,Household Type,All Households
+2019,Community District,East Harlem,38938,Dollar,Household Type,All Households
+2019,Community District,Washington Heights,64288,Dollar,Household Type,All Households
+2019,Community District,Mott Haven,30126,Dollar,Household Type,All Households
+2019,Community District,Hunts Point,30126,Dollar,Household Type,All Households
+2019,Community District,Morrisania,28361,Dollar,Household Type,All Households
+2019,Community District,Concourse/Highbridge,39119,Dollar,Household Type,All Households
+2019,Community District,University Heights,38477,Dollar,Household Type,All Households
+2019,Community District,East Tremont,28361,Dollar,Household Type,All Households
+2019,Community District,Bedford Park,49664,Dollar,Household Type,All Households
+2019,Community District,Riverdale,73588,Dollar,Household Type,All Households
+2019,Community District,Unionport/Soundview,52835,Dollar,Household Type,All Households
+2019,Community District,Throgs Neck,73325,Dollar,Household Type,All Households
+2019,Community District,Pelham Parkway,69931,Dollar,Household Type,All Households
+2019,Community District,Williamsbridge,72363,Dollar,Household Type,All Households
+2019,Community District,Williamsburg/Greenpoint,118086,Dollar,Household Type,All Households
+2019,Community District,Fort Greene/Brooklyn Hts,134020,Dollar,Household Type,All Households
+2019,Community District,Bedford Stuyvesant,73514,Dollar,Household Type,All Households
+2019,Community District,Bushwick,79628,Dollar,Household Type,All Households
+2019,Community District,East New York,55257,Dollar,Household Type,All Households
+2019,Community District,Park Slope,186530,Dollar,Household Type,All Households
+2021,Community District,Riverdale,71166,Dollar,Household Type,All Households
+2021,Community District,Williamsbridge,70349,Dollar,Household Type,All Households
+2021,Community District,Throgs Neck,65180,Dollar,Household Type,All Households
+2021,Community District,Pelham Parkway,65622,Dollar,Household Type,All Households
+2021,Community District,Morrisania,16864,Dollar,Household Type,All Households
+2021,Community District,East Tremont,17606,Dollar,Household Type,All Households
+2021,Community District,Bedford Park,43045,Dollar,Household Type,All Households
+2021,Community District,University Heights,39897,Dollar,Household Type,All Households
+2021,Community District,Concourse/Highbridge,47605,Dollar,Household Type,All Households
+2021,Community District,Unionport/Soundview,44959,Dollar,Household Type,All Households
+2021,Community District,Mott Haven,21958,Dollar,Household Type,All Households
+2021,Community District,Hunts Point,12538,Dollar,Household Type,All Households
+2021,Community District,Washington Heights,62561,Dollar,Household Type,All Households
+2021,Community District,Manhattanville,61275,Dollar,Household Type,All Households
+2021,Community District,Central Harlem,51714,Dollar,Household Type,All Households
+2021,Community District,East Harlem,47268,Dollar,Household Type,All Households
+2021,Community District,Upper East Side,149240,Dollar,Household Type,All Households
+2021,Community District,Upper West Side,130147,Dollar,Household Type,All Households
+2021,Community District,Chelsea/Clinton,70744,Dollar,Household Type,All Households
+2021,Community District,Midtown Business District,35406,Dollar,Household Type,All Households
+2021,Community District,Murray Hill/Stuyvesant,134455,Dollar,Household Type,All Households
+2021,Community District,Lower East Side,56808,Dollar,Household Type,All Households
+2021,Community District,Battery Park/Tribeca,65818,Dollar,Household Type,All Households
+2021,Community District,Greenwich Village,97161,Dollar,Household Type,All Households
+2021,Community District,Tottenville,117995,Dollar,Household Type,All Households
+2021,Community District,South Beach,92739,Dollar,Household Type,All Households
+2021,Community District,St. George,83154,Dollar,Household Type,All Households
+2021,Community District,Williamsburg/Greenpoint,115985,Dollar,Household Type,All Households
+2021,Community District,Bushwick,80701,Dollar,Household Type,All Households
+2021,Community District,Bedford Stuyvesant,78455,Dollar,Household Type,All Households
+2021,Community District,Fort Greene/Brooklyn Hts,137840,Dollar,Household Type,All Households
+2021,Community District,Park Slope,165483,Dollar,Household Type,All Households
+2021,Community District,Crown Heights North,83581,Dollar,Household Type,All Households
+2021,Community District,Brownsville,43774,Dollar,Household Type,All Households
+2021,Community District,East New York,60221,Dollar,Household Type,All Households
+2021,Community District,Canarsie,87284,Dollar,Household Type,All Households
+2021,Community District,East Flatbush,69529,Dollar,Household Type,All Households
+2021,Community District,Crown Heights South,71984,Dollar,Household Type,All Households
+2021,Community District,Sunset Park,67277,Dollar,Household Type,All Households
+2021,Community District,Bay Ridge,84189,Dollar,Household Type,All Households
+2021,Community District,Borough Park,66034,Dollar,Household Type,All Households
+2021,Community District,Flatbush/Midwood,75573,Dollar,Household Type,All Households
+2021,Community District,Sheepshead Bay,73297,Dollar,Household Type,All Households
+2021,Community District,Bensonhurst,64002,Dollar,Household Type,All Households
+2021,Community District,Coney Island,47497,Dollar,Household Type,All Households
+2021,Community District,Astoria,84082,Dollar,Household Type,All Households
+2021,Community District,Jackson Heights,75302,Dollar,Household Type,All Households
+2021,Community District,Flushing,69626,Dollar,Household Type,All Households
+2021,Community District,Bayside,99165,Dollar,Household Type,All Households
+2021,Community District,Queens Village,111236,Dollar,Household Type,All Households
+2021,Community District,Fresh Meadows/Briarwood,85173,Dollar,Household Type,All Households
+2021,Community District,Elmhurst/Corona,72550,Dollar,Household Type,All Households
+2021,Community District,Rego Park/Forest Hills,101665,Dollar,Household Type,All Households
+2021,Community District,Sunnyside/Woodside,92279,Dollar,Household Type,All Households
+2021,Community District,Ridgewood/Glendale,79722,Dollar,Household Type,All Households
+2021,Community District,Woodhaven,85989,Dollar,Household Type,All Households
+2021,Community District,Jamaica/St. Albans,78529,Dollar,Household Type,All Households
+2021,Community District,Howard Beach,94447,Dollar,Household Type,All Households
+2021,Community District,The Rockaways,59047,Dollar,Household Type,All Households
+2022,Community District,Battery Park/Tribeca,178216,Dollar,Household Type,All Households
+2022,Community District,Greenwich Village,178216,Dollar,Household Type,All Households
+2022,Community District,Lower East Side,63085,Dollar,Household Type,All Households
+2022,Community District,Chelsea/Clinton,123196,Dollar,Household Type,All Households
+2022,Community District,Midtown Business District,159728,Dollar,Household Type,All Households
+2022,Community District,Murray Hill/Stuyvesant,159728,Dollar,Household Type,All Households
+2022,Community District,Upper West Side,156917,Dollar,Household Type,All Households
+2022,Community District,Upper East Side,160041,Dollar,Household Type,All Households
+2022,Community District,Manhattanville,66537,Dollar,Household Type,All Households
+2022,Community District,Central Harlem,56028,Dollar,Household Type,All Households
+2022,Community District,Bedford Stuyvesant,79573,Dollar,Household Type,All Households
+2022,Community District,Bushwick,101539,Dollar,Household Type,All Households
+2022,Community District,East New York,60897,Dollar,Household Type,All Households
+2022,Community District,Park Slope,175022,Dollar,Household Type,All Households
+2022,Community District,Sunset Park,93087,Dollar,Household Type,All Households
+2022,Community District,Crown Heights North,87936,Dollar,Household Type,All Households
+2022,Community District,Crown Heights South,86281,Dollar,Household Type,All Households
+2022,Community District,Bay Ridge,90964,Dollar,Household Type,All Households
+2022,Community District,Bensonhurst,66249,Dollar,Household Type,All Households
+2022,Community District,Borough Park,73909,Dollar,Household Type,All Households
+2022,Community District,Coney Island,48272,Dollar,Household Type,All Households
+2022,Community District,Flatbush/Midwood,79828,Dollar,Household Type,All Households
+2022,Community District,Sheepshead Bay,68288,Dollar,Household Type,All Households
+2022,Community District,Brownsville,39640,Dollar,Household Type,All Households
+2022,Community District,East Flatbush,79294,Dollar,Household Type,All Households
+2022,Community District,Canarsie,94284,Dollar,Household Type,All Households
+2022,Community District,Astoria,90810,Dollar,Household Type,All Households
+2022,Community District,Sunnyside/Woodside,90810,Dollar,Household Type,All Households
+2022,Community District,Jackson Heights,86710,Dollar,Household Type,All Households
+2022,Community District,Elmhurst/Corona,71635,Dollar,Household Type,All Households
+2022,Community District,Ridgewood/Glendale,96385,Dollar,Household Type,All Households
+2022,Community District,Rego Park/Forest Hills,101254,Dollar,Household Type,All Households
+2022,Community District,Flushing,78884,Dollar,Household Type,All Households
+2022,Community District,Fresh Meadows/Briarwood,87364,Dollar,Household Type,All Households
+2022,Community District,Woodhaven,91544,Dollar,Household Type,All Households
+2022,Community District,Howard Beach,105338,Dollar,Household Type,All Households
+2022,Community District,Bayside,111062,Dollar,Household Type,All Households
+2022,Community District,Jamaica/St. Albans,80998,Dollar,Household Type,All Households
+2022,Community District,Queens Village,113057,Dollar,Household Type,All Households
+2022,Community District,The Rockaways,71917,Dollar,Household Type,All Households
+2022,Community District,St. George,90898,Dollar,Household Type,All Households
+2022,Community District,South Beach,102632,Dollar,Household Type,All Households
+2022,Community District,Tottenville,121251,Dollar,Household Type,All Households
+2023,Community District,Battery Park/Tribeca,206490,Dollar,Household Type,All Households
+2023,Community District,Greenwich Village,206490,Dollar,Household Type,All Households
+2023,Community District,Lower East Side,56548,Dollar,Household Type,All Households
+2023,Community District,Chelsea/Clinton,127377,Dollar,Household Type,All Households
+2023,Community District,Midtown Business District,149642,Dollar,Household Type,All Households
+2023,Community District,Murray Hill/Stuyvesant,149642,Dollar,Household Type,All Households
+2023,Community District,Upper West Side,155706,Dollar,Household Type,All Households
+2023,Community District,Upper East Side,165280,Dollar,Household Type,All Households
+2023,Community District,Manhattanville,56575,Dollar,Household Type,All Households
+2023,Community District,Central Harlem,50834,Dollar,Household Type,All Households
+2023,Community District,East Harlem,46948,Dollar,Household Type,All Households
+2023,Community District,Washington Heights,63860,Dollar,Household Type,All Households
+2023,Community District,Mott Haven,35227,Dollar,Household Type,All Households
+2023,Community District,Hunts Point,35227,Dollar,Household Type,All Households
+2023,Community District,Morrisania,32016,Dollar,Household Type,All Households
+2023,Community District,Concourse/Highbridge,39376,Dollar,Household Type,All Households
+2023,Community District,University Heights,36074,Dollar,Household Type,All Households
+2023,Community District,East Tremont,32016,Dollar,Household Type,All Households
+2023,Community District,Bedford Park,43994,Dollar,Household Type,All Households
+2023,Community District,Riverdale,78070,Dollar,Household Type,All Households
+2023,Community District,Unionport/Soundview,47332,Dollar,Household Type,All Households
+2023,Community District,Throgs Neck,73714,Dollar,Household Type,All Households
+2023,Community District,Pelham Parkway,61114,Dollar,Household Type,All Households
+2023,Community District,Williamsbridge,70551,Dollar,Household Type,All Households
+2023,Community District,Williamsburg/Greenpoint,115720,Dollar,Household Type,All Households
+2023,Community District,Fort Greene/Brooklyn Hts,156865,Dollar,Household Type,All Households
+2023,Community District,Bedford Stuyvesant,78035,Dollar,Household Type,All Households
+2023,Community District,Bushwick,81431,Dollar,Household Type,All Households
+2023,Community District,East New York,51216,Dollar,Household Type,All Households
+2023,Community District,Park Slope,165913,Dollar,Household Type,All Households
+2023,Community District,Sunset Park,90454,Dollar,Household Type,All Households
+2023,Community District,Crown Heights North,94976,Dollar,Household Type,All Households
+2023,Community District,Crown Heights South,70337,Dollar,Household Type,All Households
+2023,Community District,Bay Ridge,91925,Dollar,Household Type,All Households
+2023,Community District,Bensonhurst,71613,Dollar,Household Type,All Households
+2023,Community District,Borough Park,69735,Dollar,Household Type,All Households
+2023,Community District,Coney Island,42999,Dollar,Household Type,All Households
+2023,Community District,Flatbush/Midwood,82327,Dollar,Household Type,All Households
+2023,Community District,Sheepshead Bay,71516,Dollar,Household Type,All Households
+2023,Community District,Brownsville,43464,Dollar,Household Type,All Households
+2023,Community District,East Flatbush,68748,Dollar,Household Type,All Households
+2023,Community District,Canarsie,91532,Dollar,Household Type,All Households
+2023,Community District,Astoria,87798,Dollar,Household Type,All Households
+2023,Community District,Sunnyside/Woodside,97375,Dollar,Household Type,All Households
+2023,Community District,Jackson Heights,77930,Dollar,Household Type,All Households
+2023,Community District,Elmhurst/Corona,73468,Dollar,Household Type,All Households
+2023,Community District,Ridgewood/Glendale,87150,Dollar,Household Type,All Households
+2023,Community District,Rego Park/Forest Hills,95200,Dollar,Household Type,All Households
+2023,Community District,Flushing,64671,Dollar,Household Type,All Households
+2023,Community District,Fresh Meadows/Briarwood,81025,Dollar,Household Type,All Households
+2023,Community District,Woodhaven,103093,Dollar,Household Type,All Households
+2023,Community District,Howard Beach,92522,Dollar,Household Type,All Households
+2024,Community District,Bushwick,99550,Dollar,Household Type,All Households
+2024,Community District,East New York,51265,Dollar,Household Type,All Households
+2024,Community District,Park Slope,182554,Dollar,Household Type,All Households
+2024,Community District,Sunset Park,93559,Dollar,Household Type,All Households
+2024,Community District,Crown Heights North,94297,Dollar,Household Type,All Households
+2024,Community District,Crown Heights South,80958,Dollar,Household Type,All Households
+2024,Community District,Bay Ridge,91341,Dollar,Household Type,All Households
+2024,Community District,Bensonhurst,69487,Dollar,Household Type,All Households
+2024,Community District,Borough Park,63412,Dollar,Household Type,All Households
+2024,Community District,Coney Island,44377,Dollar,Household Type,All Households
+2024,Community District,Flatbush/Midwood,76422,Dollar,Household Type,All Households
+2024,Community District,Sheepshead Bay,66495,Dollar,Household Type,All Households
+2024,Community District,Brownsville,44472,Dollar,Household Type,All Households
+2024,Community District,East Flatbush,73414,Dollar,Household Type,All Households
+2024,Community District,Canarsie,87905,Dollar,Household Type,All Households
+2024,Community District,Astoria,90399,Dollar,Household Type,All Households
+2024,Community District,Sunnyside/Woodside,96610,Dollar,Household Type,All Households
+2024,Community District,Jackson Heights,77809,Dollar,Household Type,All Households
+2024,Community District,Elmhurst/Corona,73416,Dollar,Household Type,All Households
+2024,Community District,Ridgewood/Glendale,87316,Dollar,Household Type,All Households
+2024,Community District,Rego Park/Forest Hills,99052,Dollar,Household Type,All Households
+2024,Community District,Flushing,68799,Dollar,Household Type,All Households
+2024,Community District,Fresh Meadows/Briarwood,86684,Dollar,Household Type,All Households
+2024,Community District,Woodhaven,82410,Dollar,Household Type,All Households
+2024,Community District,Howard Beach,92445,Dollar,Household Type,All Households
+2024,Community District,Bayside,98018,Dollar,Household Type,All Households
+2024,Community District,Jamaica/St. Albans,71500,Dollar,Household Type,All Households
+2024,Community District,Queens Village,114865,Dollar,Household Type,All Households
+2024,Community District,The Rockaways,70369,Dollar,Household Type,All Households
+2024,Community District,St. George,87703,Dollar,Household Type,All Households
+2024,Community District,South Beach,91259,Dollar,Household Type,All Households
+2024,Community District,Tottenville,113379,Dollar,Household Type,All Households
